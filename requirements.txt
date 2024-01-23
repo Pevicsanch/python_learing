@@ -1,0 +1,8 @@
+jupyter # for running the notebook
+numpy  # for numerical operations
+pandas # for data manipulation
+Pyarrow # for reading parquet files and converting to pandas
+matplotlib # for plotting
+seaborn # for plotting
+scikit-learn # for machine learning
+```
